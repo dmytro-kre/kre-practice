@@ -1,6 +1,6 @@
 extern int buf[]; // external symbol
 
-int* pBuf = &buf[0]; // global symbol
+int* pBuf = &buf[0];
 
 static float age;
 
